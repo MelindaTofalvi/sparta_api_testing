@@ -2,9 +2,9 @@
 
 ## Postcode
 
-Postcode & Geolocation API for the UK
-Free, Open Source and based solely on Open Data
-https://api.postcodes.io/
+* Postcode & Geolocation API for the UK
+* Free, Open Source and based solely on Open Data
+* https://api.postcodes.io/
 
 ## Test
 
@@ -22,8 +22,8 @@ https://api.postcodes.io/
 
 ## Weather forecast
 
-5 day forecast is available at any location or city. It includes weather data every 3 hours. Forecast is available in JSON or XML format.
-http://openweathermap.org/forecast5
+* 5 day forecast is available at any location or city. It includes weather data every 3 hours. Forecast is available in JSON or XML format.
+* http://openweathermap.org/forecast5
 
 ## Test
 
